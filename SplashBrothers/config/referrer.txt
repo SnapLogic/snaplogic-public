@@ -1,0 +1,9 @@
+http://www.snaplogic.com
+http://www.starwars.com
+http://www.python.org
+http://www.stackoverflow.com
+http://www.google.com
+http://www.bing.com
+http://www.jupyter.org
+http://www.scikit-learn.org
+http://www.twitter.com/purplequark

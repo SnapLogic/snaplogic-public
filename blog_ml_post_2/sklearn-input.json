@@ -1,0 +1,19 @@
+{
+    "1-points": 20000,
+    "2-points-train": 20000,
+    "2-points-test": 5000,
+    "sig-mu": 1,
+    "sig-sig": 0.2,
+    "1-var-anom-prob": 0.002,
+    "1-anom-mu": 4,
+    "1-anom-sig": 1,
+    "mu1": 0,
+    "mu2": 0,
+    "c12": 0.95,
+    "c21": 0.95,
+    "2-var-anom-prob": 0.02,
+    "a_mu1": 0,
+    "a_mu2": 0,
+    "a_c12": -0.95,
+    "a_c21": -0.95
+}

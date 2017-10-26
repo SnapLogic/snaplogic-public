@@ -1,0 +1,16 @@
+{
+    "command_line_args": {
+        "num_users": 10,
+        "batch": 5,
+        "faker": 5,
+        "numeric": 10,
+        "rows": 20,
+        "seed": 8000,
+        "output": "./testdata/pytestdata"
+    },
+    "non_vectorized_functions": {
+        "address": "fake.street_address",
+        "state": "fake.state_abbr",
+        "zip": "fake.postalcode"
+    }
+}

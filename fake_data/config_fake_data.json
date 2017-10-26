@@ -1,0 +1,27 @@
+{
+    "command_line_args": {
+        "num_users": 1000,
+        "batch": 50000,
+        "faker": 10000,
+        "numeric": 100000,
+        "rows": 25000,
+        "seed": 4241
+    },
+    "non_vectorized_functions": {
+        "address": "fake.street_address",
+        "state": "fake.state_abbr",
+        "zip": "fake.postalcode",
+        "color": "fake.color_name",
+        "phone": "fake.phone_number",
+        "browser": "fake.firefox",
+        "platform": "fake.mac_platform_token",
+        "ip": "fake.ipv6",
+        "email": "fake.email",
+        "cc": "fake.credit_card_number",
+        "job": "fake.job",
+        "uuid": "fake.uuid4",
+        "ssn": "fake.ssn",
+        "ean": "fake.ean13",
+        "nothing": "fake.bs"
+    }
+}
